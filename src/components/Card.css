@@ -1,0 +1,22 @@
+.news-items {
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.content {
+  margin: 10px;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.title {
+  background-color: rgb(219, 246, 204);
+  border-radius: 20px;
+  padding: 5px;
+}
